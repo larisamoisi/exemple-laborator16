@@ -1,0 +1,9 @@
+.text1 {
+    margin-left: 100px;
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

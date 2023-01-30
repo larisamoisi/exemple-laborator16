@@ -1,0 +1,16 @@
+.cutie {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.verde {
+    background-color: green;
+    float: left;
+}
+
+.rosie {
+    background-color: red;
+    float: none;
+    clear: both;
+}
